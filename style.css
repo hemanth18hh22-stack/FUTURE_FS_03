@@ -1,0 +1,52 @@
+body{
+  font-family: Arial;
+  margin:0;
+  background:#111;
+  color:white;
+  }
+  
+  header{
+  background:black;
+  padding:20px;
+  text-align:center;
+  }
+  
+  nav a{
+  color:white;
+  margin:10px;
+  text-decoration:none;
+  font-weight:bold;
+  }
+  
+  section{
+  padding:40px;
+  text-align:center;
+  }
+  
+  #home{
+  background:url('https://images.unsplash.com/photo-1554284126-aa88f22d8b74') no-repeat center;
+  background-size:cover;
+  padding:120px;
+  }
+  
+  button{
+  padding:12px 25px;
+  background:red;
+  color:white;
+  border:none;
+  font-size:16px;
+  cursor:pointer;
+  }
+  
+  .service{
+  background:#222;
+  margin:15px;
+  padding:20px;
+  border-radius:8px;
+  }
+  
+  footer{
+  background:black;
+  padding:20px;
+  text-align:center;
+  }
